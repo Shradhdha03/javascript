@@ -1,5 +1,5 @@
 # xjs
-experimenting javascript
+Experimenting javascript
 
 1. Basic
 2. Array
