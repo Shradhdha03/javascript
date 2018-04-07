@@ -1,15 +1,3 @@
-JSON
-functional programming
-less chance of unwanted side effects
-simple to read
-
-object - oriented programming
-
-java - class based inheritance
-javascript - prototipical inheritance
-reuse occurs by creating new instaces of existing object instade of instances of class
-insted of extending class - enhanching exisiting object with new proprties and methods
-
 
 //Private
 
@@ -153,3 +141,16 @@ function test(a, b, c) {
 }
 var newTest = new test('aa', 'bb', 'cc');
 console.log(newTest.setA('zz').getA());
+
+// JSON
+// functional programming
+// less chance of unwanted side effects
+// simple to read
+
+// object - oriented programming
+
+// java - class based inheritance
+// javascript - prototipical inheritance
+// reuse occurs by creating new instaces of existing object instade of instances of class
+// insted of extending class - enhanching exisiting object with new proprties and methods
+

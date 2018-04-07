@@ -1,16 +1,3 @@
-// declarative 
-// funcaion keyword
-// parsed on  loaded
-// write anywhere
-
-// anonymous or funcation constuctor
-// new or funtion object
-// parsed each time it accessed
-
-// literal or funcrion expression or callback 
-// parsed once on load.
-// literl can also be anonymous.
-// must be declare before use.
 
 // Hoisting
 // All variable declaration are moved or hoised but not instatiation
@@ -192,3 +179,17 @@ function makeStr(str, l = "'", r = "'") {
 }
 
 console.log(makeStr("hello"));
+
+// declarative 
+// funcaion keyword
+// parsed on  loaded
+// write anywhere
+
+// anonymous or funcation constuctor
+// new or funtion object
+// parsed each time it accessed
+
+// literal or funcrion expression or callback 
+// parsed once on load.
+// literl can also be anonymous.
+// must be declare before use.
